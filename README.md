@@ -81,3 +81,8 @@ Agent activity is logged to `~/.openclaw/workspace-work/InterviewAgent/autonomy-
 ## License
 
 MIT
+
+
+## Daily TPM delivery update (2026-04-22)
+- Functional: Add adaptive interview flows that adjust question depth by candidate responses
+- Non-functional: Expand test coverage for scoring rubric consistency across roles
