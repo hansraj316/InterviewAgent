@@ -86,3 +86,8 @@ MIT
 ## Daily TPM delivery update (2026-04-22)
 - Functional: Add adaptive interview flows that adjust question depth by candidate responses
 - Non-functional: Expand test coverage for scoring rubric consistency across roles
+
+
+## Daily delivery update (2026-04-28)
+- Functional: Add role-specific interview kit generator with rubric presets
+- Non-functional: Improve transcript parsing accuracy for noisy audio inputs
