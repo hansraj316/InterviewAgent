@@ -80,7 +80,7 @@ Agent activity is logged to `~/.openclaw/workspace-work/InterviewAgent/autonomy-
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](./LICENSE).
 
 
 ## Daily TPM delivery update (2026-04-22)
